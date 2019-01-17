@@ -1,2 +1,3 @@
-# blog-koa
-Personal Blog  System Server using koa and mysql
+# blog-react
+personal blog system front-end using react includes ssr feature
+
